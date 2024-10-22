@@ -5,7 +5,7 @@
 		"@emotion/server": "11.11.0",
 		"@emotion/styled": "11.13.0",
 		"@mui/material": "6.1.4",
-		"next": "14.2.15"
+		"next": "15.0.0"
 	},
 	"devDependencies": {
 		"@babel/plugin-syntax-jsx": "7.25.7",
