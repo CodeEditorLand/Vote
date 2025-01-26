@@ -24,6 +24,6 @@
 		"@babel/plugin-syntax-jsx": "7.25.9",
 		"@babel/plugin-syntax-typescript": "7.25.9",
 		"@types/node": "22.10.10",
-		"lint-staged": "15.4.2"
+		"lint-staged": "15.4.3"
 	}
 }
