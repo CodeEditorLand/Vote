@@ -23,7 +23,7 @@
 	"devDependencies": {
 		"@babel/plugin-syntax-jsx": "7.25.9",
 		"@babel/plugin-syntax-typescript": "7.25.9",
-		"@types/node": "22.13.1",
+		"@types/node": "22.13.4",
 		"lint-staged": "15.4.3"
 	}
 }
