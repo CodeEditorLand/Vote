@@ -1,17 +1,4 @@
 {
-	"name": "vote",
-	"scripts": {
-		"build": "next build",
-		"dev": "next dev",
-		"start": "next start"
-	},
-	"lint-staged": {
-		"**/*": "prettier --write --ignore-unknown",
-		"*.{js,jsx,ts,tsx}": [
-			"eslint --fix",
-			"prettier --write"
-		]
-	},
 	"dependencies": {
 		"@emotion/cache": "11.14.0",
 		"@emotion/react": "11.14.0",
@@ -25,5 +12,18 @@
 		"@babel/plugin-syntax-typescript": "7.25.9",
 		"@types/node": "22.13.4",
 		"lint-staged": "15.4.3"
+	},
+	"lint-staged": {
+		"**/*": "prettier --write --ignore-unknown",
+		"*.{js,jsx,ts,tsx}": [
+			"eslint --fix",
+			"prettier --write"
+		]
+	},
+	"name": "vote",
+	"scripts": {
+		"build": "next build",
+		"dev": "next dev",
+		"start": "next start"
 	}
 }
