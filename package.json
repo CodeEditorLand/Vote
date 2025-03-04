@@ -17,13 +17,13 @@
 		"@emotion/react": "11.14.0",
 		"@emotion/server": "11.11.0",
 		"@emotion/styled": "11.14.0",
-		"@mui/material": "6.4.4",
-		"next": "15.1.7"
+		"@mui/material": "6.4.6",
+		"next": "15.2.1"
 	},
 	"devDependencies": {
 		"@babel/plugin-syntax-jsx": "7.25.9",
 		"@babel/plugin-syntax-typescript": "7.25.9",
-		"@types/node": "22.13.4",
+		"@types/node": "22.13.9",
 		"lint-staged": "15.4.3"
 	}
 }
