@@ -47,7 +47,7 @@
 		"@babel/plugin-syntax-jsx": "7.25.9",
 		"@babel/plugin-syntax-typescript": "7.25.9",
 		"@playform/build": "0.2.3",
-		"@types/node": "22.14.1",
+		"@types/node": "22.15.2",
 		"lint-staged": "15.5.1"
 	},
 	"publishConfig": {
