@@ -44,10 +44,10 @@
 		"next": "15.3.1"
 	},
 	"devDependencies": {
-		"@babel/plugin-syntax-jsx": "7.25.9",
-		"@babel/plugin-syntax-typescript": "7.25.9",
+		"@babel/plugin-syntax-jsx": "7.27.1",
+		"@babel/plugin-syntax-typescript": "7.27.1",
 		"@playform/build": "0.2.3",
-		"@types/node": "22.15.2",
+		"@types/node": "22.15.3",
 		"lint-staged": "15.5.1"
 	},
 	"publishConfig": {
