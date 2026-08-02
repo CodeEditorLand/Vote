@@ -15,23 +15,23 @@
     "@emotion/server": "^11.11.0",
     "@emotion/styled": "^11.14.1",
     "@mui/material": "^9.2.0",
-    "next": "16.2.10",
-    "react": "19.2.7",
-    "react-dom": "19.2.7"
+    "next": "16.2.12",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^8.0.1",
     "@babel/plugin-syntax-jsx": "^8.0.1",
     "@babel/plugin-syntax-typescript": "^8.0.3",
-    "@types/node": "^26.1.1",
-    "@types/react": "19.2.17",
-    "eslint": "10.7.0",
-    "eslint-config-next": "16.2.10",
+    "@types/node": "^26.1.2",
+    "@types/react": "19.2.18",
+    "eslint": "10.8.0",
+    "eslint-config-next": "16.2.12",
     "eslint-plugin-simple-import-sort": "^14.0.0",
     "eslint-plugin-unused-imports": "^4.4.1",
     "husky": "^9.1.7",
-    "lint-staged": "^17.1.0",
-    "prettier": "^3.9.5",
+    "lint-staged": "^17.3.0",
+    "prettier": "^3.9.6",
     "typescript": "7.0.2"
   },
   "lint-staged": {
